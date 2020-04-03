@@ -1,4 +1,4 @@
-function Person(ime, prezime) {
+/* function Person(ime, prezime) {
     this.firstName = ime;
     this.lastName = prezime;
     this.fullName = function (osoba) {
@@ -7,4 +7,4 @@ function Person(ime, prezime) {
             'pozdravlja: ' +
             osoba.firstName + ' ' + osoba.lastName);
     }
-}
+} */

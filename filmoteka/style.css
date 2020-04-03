@@ -1,38 +1,15 @@
-body {
-    background-color: pink;
-}
-
-.mainDiv {
-    width: 600px;
-    margin: 100px auto;
+.footer {
+    background-color: #333;
+    color: #ddd;
+    font-size: 20px;
     text-align: center;
-}
-
-#forma {
-    width: 500px;
-    margin: 50px auto;
-    text-align: center;
-}
-
-.cards {
-    margin-left: 10px;
     padding: 10px;
-    display: -ms-inline-flexbox;
-    display: -webkit-inline-flex;
-    display: inline-flex;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-flex-wrap: nowrap;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-    -webkit-justify-content: flex-start;
-    -ms-flex-pack: start;
-    justify-content: flex-start;
-    -webkit-align-content: stretch;
-    -ms-flex-line-pack: stretch;
-    align-content: stretch;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
+    clear: both;
+    margin-top: 10px;
+}
+
+.card-in {
+    float: left;
+    margin-left: 67px;
+    margin-bottom: 20px;
 }
