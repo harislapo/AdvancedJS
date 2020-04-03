@@ -10,4 +10,3 @@ function Kalkulator(a, b) {
         return this.operand1 - this.operand2;
     }
 };
-/* comment */
